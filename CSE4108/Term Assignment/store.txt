@@ -1,0 +1,15 @@
+B ^ L => M, found in KB
+B found in KB
+A ^ P => L, found in KB
+A found in KB
+C ^ L => P, found in KB
+C found in KB
+L is already search backtrack needed
+D ^ M => P, found in KB
+D found in KB
+M is already search backtrack needed
+A ^ B => L, found in KB
+A found in KB
+B found in KB
+L is generated
+M is generated
